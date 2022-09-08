@@ -1,0 +1,59 @@
+---
+- hosts: all
+  gather_facts: no
+  become: yes
+  tasks:
+  - name: update/upgrade apt
+    apt:
+      upgrade: dist
+    become: yes
+    tags:
+      - package
+  
+  - name: remove package for re-installation
+    apt:
+      name: "{{PACKAGES}}"
+      state: absent
+      update_cache: yes
+    become: yes
+    tags:
+      - remove
+  
+  - name: install packages
+    apt:
+      name: "{{PACKAGES}}"
+      state: latest
+      update_cache: yes
+    become: yes
+    tags:
+      - package
+  
+  - name: Pre-cloning requirements
+    file:
+      state: absent
+      path: /home/{{VM_USER}}/{{DIR}}/
+    become: yes
+    tags:
+      - repository
+  
+  - name: Clone Git repository
+    git:
+      repo: "{{ARG}}"
+      dest: /home/{{VM_USER}}/{{DIR}}/
+      clone: yes
+      update: yes
+    become: yes
+    tags:
+      - repository
+
+  - name: Shell command
+    ansible.builtin.shell: "{{ARG}}"
+    become: yes
+    register: out
+    tags:
+      - shell
+  
+  - debug:
+      var: out.stdout_lines
+    tags:
+      - shell

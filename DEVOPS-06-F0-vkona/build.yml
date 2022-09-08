@@ -1,0 +1,135 @@
+---
+setup:
+  - REMOVE=mysql-server
+  - [debconf-utils, maven, openjdk-11-jdk, curl, wget, nodejs, npm,gcc,python3-dev,python3-venv,libpq-dev,python3-pip]
+  - URL=https://github.com/chrisparnin/checkbox.io-micro-preview  # URL to fetch repo
+  - CMD=echo "mysql-server mysql-server/root_password password {{ MY_SQL_PASSWORD }}" | sudo debconf-set-selections
+  - CMD=echo "mysql-server mysql-server/root_password_again password {{ MY_SQL_PASSWORD }}" | sudo debconf-set-selections
+  - [mysql-server, mysql-client]
+
+jobs:
+  - name: itrust-build
+    steps:
+      - name: Clone iTrust Repository
+        url: 'https://{{ GIT_TOKEN }}@{{ GIT_REPO }}'
+      - name: Update password
+        run: 'sudo sed -i "s/password:/password: {{ MY_SQL_PASSWORD }}/g" iTrust2-v10/iTrust2/src/main/resources/application.yml.template'
+      - name: Update driver
+        run: sudo sed -i s/com.mysql.jdbc/com.mysql.cj.jdbc/g iTrust2-v10/iTrust2/src/main/resources/application.yml.template
+      - name: Rename file
+        run: sudo mv iTrust2-v10/iTrust2/src/main/resources/application.yml.template iTrust2-v10/iTrust2/src/main/resources/application.yml
+      - name: Build iTrust with Maven
+        run: cd iTrust2-v10/iTrust2 && sudo mvn --batch-mode --update-snapshots clean test
+      - name: Change Mode of Execution
+        run: sudo chmod -R 777 ~/iTrust2-v10/iTrust2/target/ && sudo chmod 777 ~/iTrust2-v10/iTrust2/target/classes/application.yml
+      - name: Generate jar file
+        run: cd iTrust2-v10/iTrust2 && sudo mvn clean package -Dmaven.test.skip=true
+      
+  - name: itrust-deploy
+    steps:
+      - name: Push war file to the droplet green
+        run: "scp -o IdentityFile=/home/vagrant/.ssh/devops_rsa /home/vagrant/iTrust2-v10/iTrust2/target/iTrust2-10.jar 'root@{{ green }}:/root/'"
+      - name: Push war file to the droplet blue
+        run: "scp -o IdentityFile=/home/vagrant/.ssh/devops_rsa /home/vagrant/iTrust2-v10/iTrust2/target/iTrust2-10.jar 'root@{{ blue }}:/root/'"
+      - name: Kill current existing process for java
+        runserver: sudo killall -9 'java' || true
+      - name: Execute the jar file 
+        runserver: java -jar ~/iTrust2-10.jar --server.port=8080
+      
+  - name: mutation-coverage
+    steps:
+      - name: Mutation testing 
+        mutation:
+          url: https://github.com/chrisparnin/checkbox.io-micro-preview
+          iterations: 3
+          snapshots:
+            - http://localhost:3000/survey/long.md
+            - http://localhost:3000/survey/upload.md
+            - http://localhost:3000/survey/survey.md
+            - http://localhost:3000/survey/variations.md
+
+  - name: healthchecks-build-test
+    steps: 
+      - name: Create webapps dir
+        run: mkdir -p ~/webapps
+      - name: Change to webapps
+        run: cd /home/vagrant/webapps/
+      - name: Create virtual environment
+        run: python3 -m venv hc-venv
+      - name: Activate virtual environment
+        run: source hc-venv/bin/activate
+      - name: Building wheel using pip
+        run: pip3 install wheel 
+      - name: Clone Healthchecks repository
+        run: cd /home/vagrant/webapps/ && git clone https://github.com/healthchecks/healthchecks.git
+      - name: Build the healthchecks project
+        run: pip install -r /home/vagrant/webapps/healthchecks/requirements.txt
+      - name: Run tests for healthchecks project
+        run: cd /home/vagrant/webapps/healthchecks/ && python3 manage.py test
+
+  - name: healthchecks-StaticCodeAnalysis
+    steps:
+      - name: Install the static code analysis package 
+        run: sudo pip install pylint
+      - name: RUN PYLINT on all the python files in healthchecks
+        run: find /home/vagrant/webapps/healthchecks/ -type f -name "*.py" | xargs pylint
+
+  - name: healthchecks-deploy
+    steps: 
+      - name: Create webapps dir
+        runserver: mkdir -p ~/webapps
+      - name: Change to webapps
+        runserver: cd /root/webapps/
+      - name: Create virtual environment
+        runserver: python3 -m venv hc-venv
+      - name: Activate virtual environment
+        runserver: source hc-venv/bin/activate
+      - name: pip install wheel
+        runserver: pip3 install wheel 
+      - name: Clone the healthchecks repo
+        runserver: cd /root/webapps/ && git clone https://github.com/healthchecks/healthchecks.git
+      - name: Build the project
+        runserver: pip install -r /root/webapps/healthchecks/requirements.txt
+      - name: Change to healthchecks directory
+        runserver: cd /root/webapps/healthchecks/
+      - name: Migrate the Database
+        runserver: python3 /root/webapps/healthchecks/manage.py migrate
+      - name: Run Compress Script
+        runserver: python3 /root/webapps/healthchecks/manage.py compress
+      - name: Run collectstatic to collect all static files
+        runserver: python3 /root/webapps/healthchecks/manage.py collectstatic
+      - name: Install uwsgi for running the application in production
+        runserver: pip install uwsgi
+      - name: Run the server
+        runserver: cd /root/webapps/healthchecks/ && "uwsgi --master --http-socket :8000 --module hc.wsgi:application &"
+
+  - name: calculator-build-test
+    steps: 
+      - name: Clone the Calculator repo
+        run: git clone https://github.com/actionsdemos/calculator
+      - name: Install packages
+        run: cd /home/vagrant/calculator/ && sudo npm install
+      - name: Run Tests
+        run: cd /home/vagrant/calculator/ && npm test
+
+  - name: calculator-StaticCodeAnalysis
+    steps:
+      - name: Static code analysis using ESLINT npm package
+        run: cd /home/vagrant/calculator/ && sudo npm install --save-dev eslint@7.32.0 eslint-config-strongloop
+      - name: Install npx
+        run: cd /home/vagrant/calculator/ && sudo npm install npx
+      - name: Get .eslintrc json file
+        run: cp /bakerx/pipeline/.eslintrc.json /home/vagrant/calculator/.eslintrc.json
+      - name: Run eslint
+        run: cd /home/vagrant/calculator/ && npx eslint '"./**"'
+        
+  - name: calculator-deploy
+    steps:
+      - name: Clone the github
+        runserver: git clone https://github.com/actionsdemos/calculator
+      - name: Install packages
+        runserver: cd /root/calculator/ && sudo npm install
+      - name: Install pm2
+        runserver: cd /root/calculator/ && sudo npm install pm2 -g
+      - name: Start the server
+        runserver: cd /root/calculator/ && pm2 start server.js 

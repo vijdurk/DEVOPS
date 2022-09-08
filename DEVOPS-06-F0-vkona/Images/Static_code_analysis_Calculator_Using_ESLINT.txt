@@ -1,0 +1,407 @@
+/home/vagrant/calculator/.eslintrc.json
+  1:11  error  Parsing error: Unexpected token :
+
+/home/vagrant/calculator/Dockerfile
+  1:6  error  Parsing error: Unexpected token node
+
+/home/vagrant/calculator/LICENSE
+  1:15  error  Parsing error: Unexpected token Microsoft
+
+/home/vagrant/calculator/README.md
+  1:14  error  Parsing error: Unexpected token :
+
+/home/vagrant/calculator/api/controllers/arithmeticController.js
+  14:5   error  Unnecessarily quoted property 'add' found       quote-props
+  14:10  error  Extra space before value for key 'add'          key-spacing
+  14:27  error  A space is required after ','                   comma-spacing
+  14:47  error  Missing semicolon                               semi
+  15:5   error  Unnecessarily quoted property 'subtract' found  quote-props
+  15:27  error  A space is required after ','                   comma-spacing
+  15:45  error  Missing semicolon                               semi
+  16:5   error  Unnecessarily quoted property 'multiply' found  quote-props
+  16:27  error  A space is required after ','                   comma-spacing
+  16:45  error  Missing semicolon                               semi
+  17:5   error  Unnecessarily quoted property 'divide' found    quote-props
+  17:13  error  Extra space before value for key 'divide'       key-spacing
+  17:27  error  A space is required after ','                   comma-spacing
+  17:45  error  Missing semicolon                               semi
+  22:7   error  Unexpected space after unary operator '!'       space-unary-ops
+  23:21  error  Strings must use singlequote                    quotes
+  28:7   error  Unexpected space after unary operator '!'       space-unary-ops
+  29:21  error  Strings must use singlequote                    quotes
+  34:7   error  Unexpected space after unary operator '!'       space-unary-ops
+  35:7   error  Unexpected space after unary operator '!'       space-unary-ops
+  37:21  error  Strings must use singlequote                    quotes
+  40:7   error  Unexpected space after unary operator '!'       space-unary-ops
+  41:7   error  Unexpected space after unary operator '!'       space-unary-ops
+  43:21  error  Strings must use singlequote                    quotes
+  46:7   error  'operand1' is assigned a value but never used   no-unused-vars
+  47:7   error  'operand2' is assigned a value but never used   no-unused-vars
+
+/home/vagrant/calculator/api/routes.js
+  1:1   error  Use the global form of 'use strict'  strict
+  2:28  error  Strings must use singlequote         quotes
+  4:13  error  Strings must use singlequote         quotes
+
+/home/vagrant/calculator/coverage/base.css
+  1:12  error  Parsing error: Unexpected token {
+
+/home/vagrant/calculator/coverage/calculator/api/controllers/arithmeticController.js.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/calculator/api/controllers/index.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/calculator/api/index.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/calculator/api/routes.js.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/calculator/index.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/calculator/server.js.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/cobertura-coverage.xml
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/index.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/coverage/prettify.css
+  1:1  error  Parsing error: Unexpected token .
+
+/home/vagrant/calculator/coverage/sort-arrow-sprite.png
+  1:1  error  Parsing error: Unexpected character ' '
+
+/home/vagrant/calculator/out/test-results.xml
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/package-lock.json
+  2:9  error  Parsing error: Unexpected token :
+
+/home/vagrant/calculator/package.json
+  2:9  error  Parsing error: Unexpected token :
+
+/home/vagrant/calculator/public/background.png
+  1:1  error  Parsing error: Unexpected character ' '
+
+/home/vagrant/calculator/public/default.css
+  3:17  error  Parsing error: Unexpected token ;
+
+/home/vagrant/calculator/public/digits-darkgrey.png
+  1:1  error  Parsing error: Unexpected character ' '
+
+/home/vagrant/calculator/public/digits-grey.png
+  1:1  error  Parsing error: Unexpected character ' '
+
+/home/vagrant/calculator/public/digits.png
+  1:1  error  Parsing error: Unexpected character ' '
+
+/home/vagrant/calculator/public/index.html
+  1:1  error  Parsing error: Unexpected token <
+
+/home/vagrant/calculator/server.js
+   1:1   error  Use the global form of 'use strict'                            strict
+   1:1   error  Split initialized 'var' declarations into multiple statements  one-var
+   7:22  error  Strings must use singlequote                                   quotes
+  10:5   error  Unexpected space after unary operator '!'                      space-unary-ops
+  14:21  error  Missing semicolon                                              semi
+  16:13  error  Strings must use singlequote                                   quotes
+
+/home/vagrant/calculator/test/arithmetic.js
+    1:1   error  Use the global form of 'use strict'             strict
+    1:1   error  'describe' is not defined                       no-undef
+    1:36  error  Trailing spaces not allowed                     no-trailing-spaces
+    2:3   error  'describe' is not defined                       no-undef
+    3:5   error  'it' is not defined                             no-undef
+    4:7   error  'request' is not defined                        no-undef
+    5:1   error  Expected indentation of 8 spaces but found 10   indent
+    6:1   error  Expected indentation of 8 spaces but found 10   indent
+    6:16  error  Expected error to be handled                    handle-callback-err
+    7:1   error  Expected indentation of 10 spaces but found 14  indent
+    7:15  error  'expect' is not defined                         no-undef
+    7:48  error  Strings must use singlequote                    quotes
+    8:1   error  Expected indentation of 10 spaces but found 14  indent
+    9:1   error  Expected indentation of 8 spaces but found 10   indent
+   11:5   error  'it' is not defined                             no-undef
+   12:7   error  'request' is not defined                        no-undef
+   13:1   error  Expected indentation of 8 spaces but found 10   indent
+   14:1   error  Expected indentation of 8 spaces but found 10   indent
+   14:16  error  Expected error to be handled                    handle-callback-err
+   15:1   error  Expected indentation of 10 spaces but found 14  indent
+   15:15  error  'expect' is not defined                         no-undef
+   15:48  error  Strings must use singlequote                    quotes
+   16:1   error  Expected indentation of 10 spaces but found 14  indent
+   17:1   error  Expected indentation of 8 spaces but found 10   indent
+   19:5   error  'it' is not defined                             no-undef
+   20:7   error  'request' is not defined                        no-undef
+   21:1   error  Expected indentation of 8 spaces but found 10   indent
+   22:1   error  Expected indentation of 8 spaces but found 10   indent
+   22:16  error  Expected error to be handled                    handle-callback-err
+   23:1   error  Expected indentation of 10 spaces but found 14  indent
+   23:15  error  'expect' is not defined                         no-undef
+   23:48  error  Strings must use singlequote                    quotes
+   24:1   error  Expected indentation of 10 spaces but found 14  indent
+   25:1   error  Expected indentation of 8 spaces but found 10   indent
+   27:5   error  'it' is not defined                             no-undef
+   28:7   error  'request' is not defined                        no-undef
+   29:1   error  Expected indentation of 8 spaces but found 10   indent
+   30:1   error  Expected indentation of 8 spaces but found 10   indent
+   30:16  error  Expected error to be handled                    handle-callback-err
+   31:1   error  Expected indentation of 10 spaces but found 14  indent
+   31:15  error  'expect' is not defined                         no-undef
+   31:48  error  Strings must use singlequote                    quotes
+   32:1   error  Expected indentation of 10 spaces but found 14  indent
+   33:1   error  Expected indentation of 8 spaces but found 10   indent
+   35:5   error  'it' is not defined                             no-undef
+   36:7   error  'request' is not defined                        no-undef
+   37:1   error  Expected indentation of 8 spaces but found 10   indent
+   38:1   error  Expected indentation of 8 spaces but found 10   indent
+   38:16  error  Expected error to be handled                    handle-callback-err
+   39:1   error  Expected indentation of 10 spaces but found 14  indent
+   39:15  error  'expect' is not defined                         no-undef
+   39:48  error  Strings must use singlequote                    quotes
+   40:1   error  Expected indentation of 10 spaces but found 14  indent
+   41:1   error  Expected indentation of 8 spaces but found 10   indent
+   43:5   error  'it' is not defined                             no-undef
+   44:7   error  'request' is not defined                        no-undef
+   45:1   error  Expected indentation of 8 spaces but found 10   indent
+   46:1   error  Expected indentation of 8 spaces but found 10   indent
+   46:16  error  Expected error to be handled                    handle-callback-err
+   47:1   error  Expected indentation of 10 spaces but found 14  indent
+   47:15  error  'expect' is not defined                         no-undef
+   47:48  error  Strings must use singlequote                    quotes
+   48:1   error  Expected indentation of 10 spaces but found 14  indent
+   49:1   error  Expected indentation of 8 spaces but found 10   indent
+   53:3   error  'describe' is not defined                       no-undef
+   54:5   error  'it' is not defined                             no-undef
+   55:7   error  'request' is not defined                        no-undef
+   56:1   error  Expected indentation of 8 spaces but found 10   indent
+   57:1   error  Expected indentation of 8 spaces but found 10   indent
+   57:16  error  Expected error to be handled                    handle-callback-err
+   58:1   error  Expected indentation of 10 spaces but found 14  indent
+   58:15  error  'expect' is not defined                         no-undef
+   59:1   error  Expected indentation of 10 spaces but found 14  indent
+   60:1   error  Expected indentation of 8 spaces but found 10   indent
+   62:5   error  'it' is not defined                             no-undef
+   63:7   error  'request' is not defined                        no-undef
+   64:1   error  Expected indentation of 8 spaces but found 10   indent
+   65:1   error  Expected indentation of 8 spaces but found 10   indent
+   65:16  error  Expected error to be handled                    handle-callback-err
+   66:1   error  Expected indentation of 10 spaces but found 14  indent
+   66:15  error  'expect' is not defined                         no-undef
+   67:1   error  Expected indentation of 10 spaces but found 14  indent
+   68:1   error  Expected indentation of 8 spaces but found 10   indent
+   70:5   error  'it' is not defined                             no-undef
+   71:7   error  'request' is not defined                        no-undef
+   72:1   error  Expected indentation of 8 spaces but found 10   indent
+   73:1   error  Expected indentation of 8 spaces but found 10   indent
+   73:16  error  Expected error to be handled                    handle-callback-err
+   74:1   error  Expected indentation of 10 spaces but found 14  indent
+   74:15  error  'expect' is not defined                         no-undef
+   75:1   error  Expected indentation of 10 spaces but found 14  indent
+   76:1   error  Expected indentation of 8 spaces but found 10   indent
+   78:5   error  'it' is not defined                             no-undef
+   79:7   error  'request' is not defined                        no-undef
+   80:1   error  Expected indentation of 8 spaces but found 10   indent
+   81:1   error  Expected indentation of 8 spaces but found 10   indent
+   81:16  error  Expected error to be handled                    handle-callback-err
+   82:1   error  Expected indentation of 10 spaces but found 14  indent
+   82:15  error  'expect' is not defined                         no-undef
+   83:1   error  Expected indentation of 10 spaces but found 14  indent
+   84:1   error  Expected indentation of 8 spaces but found 10   indent
+   86:5   error  'it' is not defined                             no-undef
+   87:7   error  'request' is not defined                        no-undef
+   88:1   error  Expected indentation of 8 spaces but found 10   indent
+   89:1   error  Expected indentation of 8 spaces but found 10   indent
+   89:16  error  Expected error to be handled                    handle-callback-err
+   90:1   error  Expected indentation of 10 spaces but found 14  indent
+   90:15  error  'expect' is not defined                         no-undef
+   91:1   error  Expected indentation of 10 spaces but found 14  indent
+   92:1   error  Expected indentation of 8 spaces but found 10   indent
+   94:5   error  'it' is not defined                             no-undef
+   95:7   error  'request' is not defined                        no-undef
+   96:1   error  Expected indentation of 8 spaces but found 10   indent
+   97:1   error  Expected indentation of 8 spaces but found 10   indent
+   97:16  error  Expected error to be handled                    handle-callback-err
+   98:1   error  Expected indentation of 10 spaces but found 14  indent
+   98:15  error  'expect' is not defined                         no-undef
+   99:1   error  Expected indentation of 10 spaces but found 14  indent
+  100:1   error  Expected indentation of 8 spaces but found 10   indent
+  104:3   error  'describe' is not defined                       no-undef
+  105:5   error  'it' is not defined                             no-undef
+  106:7   error  'request' is not defined                        no-undef
+  107:1   error  Expected indentation of 8 spaces but found 10   indent
+  108:1   error  Expected indentation of 8 spaces but found 10   indent
+  108:16  error  Expected error to be handled                    handle-callback-err
+  109:1   error  Expected indentation of 10 spaces but found 14  indent
+  109:15  error  'expect' is not defined                         no-undef
+  110:1   error  Expected indentation of 10 spaces but found 14  indent
+  111:1   error  Expected indentation of 8 spaces but found 10   indent
+  113:5   error  'it' is not defined                             no-undef
+  114:7   error  'request' is not defined                        no-undef
+  115:1   error  Expected indentation of 8 spaces but found 10   indent
+  116:1   error  Expected indentation of 8 spaces but found 10   indent
+  116:16  error  Expected error to be handled                    handle-callback-err
+  117:1   error  Expected indentation of 10 spaces but found 14  indent
+  117:15  error  'expect' is not defined                         no-undef
+  118:1   error  Expected indentation of 10 spaces but found 14  indent
+  119:1   error  Expected indentation of 8 spaces but found 10   indent
+  121:5   error  'it' is not defined                             no-undef
+  122:7   error  'request' is not defined                        no-undef
+  123:1   error  Expected indentation of 8 spaces but found 10   indent
+  124:1   error  Expected indentation of 8 spaces but found 10   indent
+  124:16  error  Expected error to be handled                    handle-callback-err
+  125:1   error  Expected indentation of 10 spaces but found 14  indent
+  125:15  error  'expect' is not defined                         no-undef
+  126:1   error  Expected indentation of 10 spaces but found 14  indent
+  127:1   error  Expected indentation of 8 spaces but found 10   indent
+  129:5   error  'it' is not defined                             no-undef
+  130:7   error  'request' is not defined                        no-undef
+  131:1   error  Expected indentation of 8 spaces but found 10   indent
+  132:1   error  Expected indentation of 8 spaces but found 10   indent
+  132:16  error  Expected error to be handled                    handle-callback-err
+  133:1   error  Expected indentation of 10 spaces but found 14  indent
+  133:15  error  'expect' is not defined                         no-undef
+  134:1   error  Expected indentation of 10 spaces but found 14  indent
+  135:1   error  Expected indentation of 8 spaces but found 10   indent
+  137:5   error  'it' is not defined                             no-undef
+  138:7   error  'request' is not defined                        no-undef
+  139:1   error  Expected indentation of 8 spaces but found 10   indent
+  140:1   error  Expected indentation of 8 spaces but found 10   indent
+  140:16  error  Expected error to be handled                    handle-callback-err
+  141:1   error  Expected indentation of 10 spaces but found 14  indent
+  141:15  error  'expect' is not defined                         no-undef
+  142:1   error  Expected indentation of 10 spaces but found 14  indent
+  143:1   error  Expected indentation of 8 spaces but found 10   indent
+  147:3   error  'describe' is not defined                       no-undef
+  148:5   error  'it' is not defined                             no-undef
+  149:7   error  'request' is not defined                        no-undef
+  150:1   error  Expected indentation of 8 spaces but found 10   indent
+  151:1   error  Expected indentation of 8 spaces but found 10   indent
+  151:16  error  Expected error to be handled                    handle-callback-err
+  152:1   error  Expected indentation of 10 spaces but found 14  indent
+  152:15  error  'expect' is not defined                         no-undef
+  153:1   error  Expected indentation of 10 spaces but found 14  indent
+  154:1   error  Expected indentation of 8 spaces but found 10   indent
+  156:5   error  'it' is not defined                             no-undef
+  157:7   error  'request' is not defined                        no-undef
+  158:1   error  Expected indentation of 8 spaces but found 10   indent
+  159:1   error  Expected indentation of 8 spaces but found 10   indent
+  159:16  error  Expected error to be handled                    handle-callback-err
+  160:1   error  Expected indentation of 10 spaces but found 14  indent
+  160:15  error  'expect' is not defined                         no-undef
+  161:1   error  Expected indentation of 10 spaces but found 14  indent
+  162:1   error  Expected indentation of 8 spaces but found 10   indent
+  164:5   error  'it' is not defined                             no-undef
+  165:7   error  'request' is not defined                        no-undef
+  166:1   error  Expected indentation of 8 spaces but found 10   indent
+  167:1   error  Expected indentation of 8 spaces but found 10   indent
+  167:16  error  Expected error to be handled                    handle-callback-err
+  168:1   error  Expected indentation of 10 spaces but found 14  indent
+  168:15  error  'expect' is not defined                         no-undef
+  169:1   error  Expected indentation of 10 spaces but found 14  indent
+  170:1   error  Expected indentation of 8 spaces but found 10   indent
+  172:5   error  'it' is not defined                             no-undef
+  173:7   error  'request' is not defined                        no-undef
+  174:1   error  Expected indentation of 8 spaces but found 10   indent
+  175:1   error  Expected indentation of 8 spaces but found 10   indent
+  175:16  error  Expected error to be handled                    handle-callback-err
+  176:1   error  Expected indentation of 10 spaces but found 14  indent
+  176:15  error  'expect' is not defined                         no-undef
+  177:1   error  Expected indentation of 10 spaces but found 14  indent
+  178:1   error  Expected indentation of 8 spaces but found 10   indent
+  180:5   error  'it' is not defined                             no-undef
+  181:7   error  'request' is not defined                        no-undef
+  182:1   error  Expected indentation of 8 spaces but found 10   indent
+  183:1   error  Expected indentation of 8 spaces but found 10   indent
+  183:16  error  Expected error to be handled                    handle-callback-err
+  184:1   error  Expected indentation of 10 spaces but found 14  indent
+  184:15  error  'expect' is not defined                         no-undef
+  185:1   error  Expected indentation of 10 spaces but found 14  indent
+  186:1   error  Expected indentation of 8 spaces but found 10   indent
+  188:5   error  'it' is not defined                             no-undef
+  189:7   error  'request' is not defined                        no-undef
+  190:1   error  Expected indentation of 8 spaces but found 10   indent
+  191:1   error  Expected indentation of 8 spaces but found 10   indent
+  191:16  error  Expected error to be handled                    handle-callback-err
+  192:1   error  Expected indentation of 10 spaces but found 14  indent
+  192:15  error  'expect' is not defined                         no-undef
+  193:1   error  Expected indentation of 10 spaces but found 14  indent
+  194:1   error  Expected indentation of 8 spaces but found 10   indent
+  198:3   error  'describe' is not defined                       no-undef
+  199:5   error  'it' is not defined                             no-undef
+  200:7   error  'request' is not defined                        no-undef
+  201:1   error  Expected indentation of 8 spaces but found 10   indent
+  202:1   error  Expected indentation of 8 spaces but found 10   indent
+  202:16  error  Expected error to be handled                    handle-callback-err
+  203:1   error  Expected indentation of 10 spaces but found 14  indent
+  203:15  error  'expect' is not defined                         no-undef
+  204:1   error  Expected indentation of 10 spaces but found 14  indent
+  205:1   error  Expected indentation of 8 spaces but found 10   indent
+  207:5   error  'it' is not defined                             no-undef
+  208:7   error  'request' is not defined                        no-undef
+  209:1   error  Expected indentation of 8 spaces but found 10   indent
+  210:1   error  Expected indentation of 8 spaces but found 10   indent
+  210:16  error  Expected error to be handled                    handle-callback-err
+  211:1   error  Expected indentation of 10 spaces but found 14  indent
+  211:15  error  'expect' is not defined                         no-undef
+  212:1   error  Expected indentation of 10 spaces but found 14  indent
+  213:1   error  Expected indentation of 8 spaces but found 10   indent
+  215:5   error  'it' is not defined                             no-undef
+  216:7   error  'request' is not defined                        no-undef
+  217:1   error  Expected indentation of 8 spaces but found 10   indent
+  218:1   error  Expected indentation of 8 spaces but found 10   indent
+  218:16  error  Expected error to be handled                    handle-callback-err
+  219:1   error  Expected indentation of 10 spaces but found 14  indent
+  219:15  error  'expect' is not defined                         no-undef
+  220:1   error  Expected indentation of 10 spaces but found 14  indent
+  221:1   error  Expected indentation of 8 spaces but found 10   indent
+  223:5   error  'it' is not defined                             no-undef
+  224:7   error  'request' is not defined                        no-undef
+  225:1   error  Expected indentation of 8 spaces but found 10   indent
+  226:1   error  Expected indentation of 8 spaces but found 10   indent
+  226:16  error  Expected error to be handled                    handle-callback-err
+  227:1   error  Expected indentation of 10 spaces but found 14  indent
+  227:15  error  'expect' is not defined                         no-undef
+  228:1   error  Expected indentation of 10 spaces but found 14  indent
+  229:1   error  Expected indentation of 8 spaces but found 10   indent
+  231:5   error  'it' is not defined                             no-undef
+  232:7   error  'request' is not defined                        no-undef
+  233:1   error  Expected indentation of 8 spaces but found 10   indent
+  234:1   error  Expected indentation of 8 spaces but found 10   indent
+  234:16  error  Expected error to be handled                    handle-callback-err
+  235:1   error  Expected indentation of 10 spaces but found 14  indent
+  235:15  error  'expect' is not defined                         no-undef
+  236:1   error  Expected indentation of 10 spaces but found 14  indent
+  237:1   error  Expected indentation of 8 spaces but found 10   indent
+  239:5   error  'it' is not defined                             no-undef
+  240:7   error  'request' is not defined                        no-undef
+  241:1   error  Expected indentation of 8 spaces but found 10   indent
+  242:1   error  Expected indentation of 8 spaces but found 10   indent
+  242:16  error  Expected error to be handled                    handle-callback-err
+  243:1   error  Expected indentation of 10 spaces but found 14  indent
+  243:15  error  'expect' is not defined                         no-undef
+  244:1   error  Expected indentation of 10 spaces but found 14  indent
+  245:1   error  Expected indentation of 8 spaces but found 10   indent
+  247:5   error  'it' is not defined                             no-undef
+  248:7   error  'request' is not defined                        no-undef
+  249:1   error  Expected indentation of 8 spaces but found 10   indent
+  250:1   error  Expected indentation of 8 spaces but found 10   indent
+  250:16  error  Expected error to be handled                    handle-callback-err
+  251:1   error  Expected indentation of 10 spaces but found 14  indent
+  251:15  error  'expect' is not defined                         no-undef
+  252:1   error  Expected indentation of 10 spaces but found 14  indent
+  253:1   error  Expected indentation of 8 spaces but found 10   indent
+
+/home/vagrant/calculator/test/config.json
+  2:20  error  Parsing error: Unexpected token :
+
+/home/vagrant/calculator/test/helpers.js
+  1:1  error  Use the global form of 'use strict'  strict
+
+✖ 345 problems (345 errors, 0 warnings)
+  188 errors and 0 warnings potentially fixable with the `--fix` option.

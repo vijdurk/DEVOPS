@@ -1,0 +1,155 @@
+---
+- hosts: all
+  gather_facts: no
+  become: yes
+  tasks:
+  - name: Install node
+    apt:
+      name: nodejs
+      state: latest
+      update_cache: yes
+    become: yes
+    tags:
+      - mutation-baseline
+  
+  - name: Install packages based on package.json using the npm
+    npm:
+      path: /home/{{VM_USER}}/{{DIR}}/
+      state: present
+    become: yes
+    tags:
+      - mutation-baseline
+
+  - name: Install chromium
+    apt:
+      name: chromium-bsu, chromium-browser
+      state: present
+      update_cache: yes
+    become: yes
+    tags:
+      - mutation-baseline
+
+  - name: Test mutation
+    command: node mutator.js
+    args:
+      chdir: /bakerx/pipeline/scripts
+    register: mutator
+    become: yes
+    tags:
+      - mutation-test
+    
+  - debug:
+      var: mutator.stdout_lines
+    tags:
+      - mutation-test
+  
+  - name: Log mutant
+    ansible.builtin.lineinfile:
+      insertafter: EOF
+      path: /bakerx/pipeline/diff.txt
+      line: "{{ lookup('template', 'mutant_log.j2') }}"
+    tags:
+      - mutation-test
+
+  - name:  Take the backup for the actual file marqdown.js
+    copy:
+      src: /home/{{VM_USER}}/{{DIR}}/marqdown.js
+      dest: /home/{{VM_USER}}/{{DIR}}/marqdown_bkp.js
+      owner: root
+      group: root
+      mode: 0644
+    become: yes
+    tags:
+      - mutation-test
+  
+  - name: Copy file marqdown-mod.js to marqdown.js
+    copy:
+      src: /home/{{VM_USER}}/{{DIR}}/marqdown-mod.js
+      dest: /home/{{VM_USER}}/{{DIR}}/marqdown.js
+      owner: root
+      group: root
+      mode: 0644
+    become: yes
+    tags:
+      - mutation-test
+
+  - name: Build app
+    command: node index.js
+    args:
+      chdir: /home/{{VM_USER}}/{{DIR}}/
+    async: 10000
+    poll: 0
+    become: yes
+    tags:
+      - mutation-baseline
+      - mutation-test
+  
+  - name: Check if process is running
+    shell: ps aux | grep index.js
+    register: out
+    become: yes
+    tags:
+      - mutation-baseline
+      - mutation-test
+
+  - debug:
+      var: out.stdout_lines
+    tags:
+      - mutation-baseline
+      - mutation-test
+
+  - name: Capture snapshots
+    command: node snapshot.js {{ITERATION}} {{URLS}}
+    args:
+      chdir: /bakerx/pipeline/scripts
+    ignore_errors: yes
+    become: yes
+    register: snap_out
+    tags:
+      - mutation-baseline
+      - mutation-test
+  
+  - debug:
+      var: snap_out.stdout_lines
+    tags:
+      - mutation-baseline
+      - mutation-test
+  
+  - name: Stop the service
+    shell: pkill node
+    args:
+      chdir: /home/{{VM_USER}}/{{DIR}}/
+    ignore_errors: yes
+    become: yes
+    tags:
+      - mutation-baseline
+      - mutation-test
+
+  - name: Replace actual file marqdown.js
+    copy:
+      src: /home/{{VM_USER}}/{{DIR}}/marqdown_bkp.js
+      dest: /home/{{VM_USER}}/{{DIR}}/marqdown.js
+      owner: root
+      group: root
+      mode: 0644
+    become: yes
+    tags:
+      - mutation-test
+
+  - name: Generate differences
+    command: node snapshot_diff.js {{ITERATION}} {{URLS}}
+    args:
+      chdir: /bakerx/pipeline/scripts
+    ignore_errors: yes
+    register: diff
+    become: yes
+    tags:
+      - mutation-test
+
+  - name: Log difference
+    ansible.builtin.lineinfile:
+      insertafter: EOF
+      path: /bakerx/pipeline/diff.txt
+      line: "{{ lookup('template', 'diff_log.j2') }}"
+    tags:
+      - mutation-test

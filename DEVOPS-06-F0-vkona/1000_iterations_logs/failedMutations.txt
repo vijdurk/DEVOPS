@@ -1,0 +1,486 @@
+iteration 1 long_1: 12.22 upload_1: 0.00 survey_1: 0.11 variations_1: 0.11 
+iteration 3 long_3: 1.19 upload_3: 1.57 survey_3: 4.53 variations_3: 5.82 
+iteration 5 long_5: 1.18 upload_5: 1.52 survey_5: 4.50 variations_5: 5.78 
+iteration 7 long_7: File absent upload_7: File absent survey_7: File absent variations_7: File absent 
+iteration 12 long_12: File absent upload_12: File absent survey_12: File absent variations_12: File absent 
+iteration 14 long_14: 11.53 upload_14: 2.42 survey_14: 0.00 variations_14: 0.00 
+iteration 15 long_15: File absent upload_15: File absent survey_15: File absent variations_15: File absent 
+iteration 16 long_16: 0.00 upload_16: 0.18 survey_16: 0.00 variations_16: 0.00 
+iteration 21 long_21: 9.72 upload_21: File absent survey_21: File absent variations_21: File absent 
+iteration 22 long_22: File absent upload_22: File absent survey_22: File absent variations_22: File absent 
+iteration 23 long_23: File absent upload_23: File absent survey_23: File absent variations_23: File absent 
+iteration 24 long_24: 1.19 upload_24: 1.57 survey_24: 4.53 variations_24: 5.82 
+iteration 27 long_27: File absent upload_27: File absent survey_27: File absent variations_27: File absent 
+iteration 28 long_28: 1.19 upload_28: 1.57 survey_28: 4.53 variations_28: 5.82 
+iteration 30 long_30: File absent upload_30: File absent survey_30: File absent variations_30: File absent 
+iteration 31 long_31: File absent upload_31: File absent survey_31: File absent variations_31: File absent 
+iteration 32 long_32: 8.35 upload_32: 1.09 survey_32: 4.18 variations_32: 6.27 
+iteration 42 long_42: 14.01 upload_42: 0.00 survey_42: 0.00 variations_42: 0.00 
+iteration 46 long_46: 5.56 upload_46: 0.00 survey_46: 0.19 variations_46: 0.06 
+iteration 48 long_48: 1.19 upload_48: 1.57 survey_48: 4.53 variations_48: 5.82 
+iteration 50 long_50: 8.44 upload_50: 1.13 survey_50: 4.38 variations_50: 6.27 
+iteration 51 long_51: 0.01 upload_51: File absent survey_51: File absent variations_51: File absent 
+iteration 55 long_55: 11.53 upload_55: 2.42 survey_55: 0.00 variations_55: 0.00 
+iteration 58 long_58: 1.19 upload_58: 1.57 survey_58: 4.53 variations_58: 5.82 
+iteration 59 long_59: File absent upload_59: File absent survey_59: File absent variations_59: File absent 
+iteration 62 long_62: 1.19 upload_62: 1.57 survey_62: 4.53 variations_62: 5.82 
+iteration 63 long_63: File absent upload_63: File absent survey_63: File absent variations_63: File absent 
+iteration 68 long_68: 1.19 upload_68: 1.57 survey_68: 4.53 variations_68: 5.82 
+iteration 69 long_69: 1.19 upload_69: 1.57 survey_69: 4.53 variations_69: 5.82 
+iteration 70 long_70: 9.93 upload_70: 0.41 survey_70: 6.57 variations_70: 4.35 
+iteration 72 long_72: 1.19 upload_72: 1.57 survey_72: 4.53 variations_72: 5.82 
+iteration 73 long_73: 1.18 upload_73: 1.52 survey_73: 4.50 variations_73: 5.78 
+iteration 76 long_76: 1.19 upload_76: 1.57 survey_76: 4.53 variations_76: 5.82 
+iteration 79 long_79: File absent upload_79: File absent survey_79: File absent variations_79: File absent 
+iteration 80 long_80: File absent upload_80: File absent survey_80: File absent variations_80: File absent 
+iteration 81 long_81: 14.01 upload_81: 0.00 survey_81: 0.00 variations_81: 0.00 
+iteration 82 long_82: File absent upload_82: File absent survey_82: File absent variations_82: File absent 
+iteration 83 long_83: File absent upload_83: File absent survey_83: File absent variations_83: File absent 
+iteration 84 long_84: File absent upload_84: File absent survey_84: File absent variations_84: File absent 
+iteration 88 long_88: 1.19 upload_88: 1.57 survey_88: 4.53 variations_88: 5.82 
+iteration 90 long_90: File absent upload_90: File absent survey_90: File absent variations_90: File absent 
+iteration 91 long_91: File absent upload_91: File absent survey_91: File absent variations_91: File absent 
+iteration 93 long_93: 9.45 upload_93: 1.13 survey_93: 6.07 variations_93: 6.81 
+iteration 96 long_96: 9.45 upload_96: 1.13 survey_96: 6.07 variations_96: 6.81 
+iteration 97 long_97: 9.72 upload_97: File absent survey_97: File absent variations_97: File absent 
+iteration 101 long_101: File absent upload_101: File absent survey_101: File absent variations_101: File absent 
+iteration 103 long_103: 9.72 upload_103: File absent survey_103: File absent variations_103: File absent 
+iteration 105 long_105: 12.22 upload_105: 0.00 survey_105: 0.11 variations_105: 0.11 
+iteration 108 long_108: 1.19 upload_108: 1.57 survey_108: 4.53 variations_108: 5.82 
+iteration 117 long_117: 12.22 upload_117: 0.00 survey_117: 0.11 variations_117: 0.11 
+iteration 118 long_118: 12.22 upload_118: 0.00 survey_118: 0.11 variations_118: 0.11 
+iteration 122 long_122: File absent upload_122: File absent survey_122: File absent variations_122: File absent 
+iteration 123 long_123: 1.19 upload_123: 1.57 survey_123: 4.53 variations_123: 5.82 
+iteration 126 long_126: File absent upload_126: File absent survey_126: File absent variations_126: File absent 
+iteration 127 long_127: 14.01 upload_127: 0.00 survey_127: 0.00 variations_127: 0.00 
+iteration 129 long_129: File absent upload_129: File absent survey_129: File absent variations_129: File absent 
+iteration 131 long_131: 0.01 upload_131: File absent survey_131: File absent variations_131: File absent 
+iteration 132 long_132: 1.19 upload_132: 1.57 survey_132: 4.53 variations_132: 5.82 
+iteration 134 long_134: 0.00 upload_134: 0.00 survey_134: 0.50 variations_134: 0.61 
+iteration 135 long_135: File absent upload_135: File absent survey_135: File absent variations_135: File absent 
+iteration 136 long_136: File absent upload_136: File absent survey_136: File absent variations_136: File absent 
+iteration 138 long_138: File absent upload_138: File absent survey_138: File absent variations_138: File absent 
+iteration 140 long_140: 1.19 upload_140: 1.57 survey_140: 4.53 variations_140: 5.82 
+iteration 142 long_142: 8.44 upload_142: 1.13 survey_142: 4.38 variations_142: 6.27 
+iteration 143 long_143: File absent upload_143: File absent survey_143: File absent variations_143: File absent 
+iteration 144 long_144: 8.44 upload_144: 1.13 survey_144: 4.38 variations_144: 6.27 
+iteration 145 long_145: File absent upload_145: File absent survey_145: File absent variations_145: File absent 
+iteration 148 long_148: File absent upload_148: File absent survey_148: File absent variations_148: File absent 
+iteration 149 long_149: 8.44 upload_149: 1.13 survey_149: 4.38 variations_149: 6.27 
+iteration 154 long_154: 1.19 upload_154: 1.57 survey_154: 4.53 variations_154: 5.82 
+iteration 155 long_155: 1.19 upload_155: 1.57 survey_155: 4.53 variations_155: 5.82 
+iteration 159 long_159: 0.00 upload_159: 0.38 survey_159: 1.57 variations_159: 1.91 
+iteration 164 long_164: 9.72 upload_164: File absent survey_164: File absent variations_164: File absent 
+iteration 165 long_165: 9.93 upload_165: 0.41 survey_165: 6.57 variations_165: 4.35 
+iteration 169 long_169: 9.93 upload_169: 0.41 survey_169: 6.57 variations_169: 4.35 
+iteration 171 long_171: File absent upload_171: File absent survey_171: File absent variations_171: File absent 
+iteration 175 long_175: File absent upload_175: File absent survey_175: File absent variations_175: File absent 
+iteration 176 long_176: 12.40 upload_176: 2.39 survey_176: 5.72 variations_176: 3.71 
+iteration 177 long_177: File absent upload_177: File absent survey_177: File absent variations_177: File absent 
+iteration 181 long_181: File absent upload_181: File absent survey_181: File absent variations_181: File absent 
+iteration 182 long_182: File absent upload_182: File absent survey_182: File absent variations_182: File absent 
+iteration 185 long_185: File absent upload_185: File absent survey_185: File absent variations_185: File absent 
+iteration 186 long_186: File absent upload_186: File absent survey_186: File absent variations_186: File absent 
+iteration 187 long_187: 11.96 upload_187: 2.43 survey_187: 0.00 variations_187: 0.00 
+iteration 188 long_188: 12.22 upload_188: 0.00 survey_188: 0.11 variations_188: 0.11 
+iteration 190 long_190: File absent upload_190: File absent survey_190: File absent variations_190: File absent 
+iteration 195 long_195: File absent upload_195: File absent survey_195: File absent variations_195: File absent 
+iteration 198 long_198: 13.75 upload_198: File absent survey_198: File absent variations_198: File absent 
+iteration 200 long_200: 8.35 upload_200: 1.09 survey_200: 4.18 variations_200: 6.27 
+iteration 201 long_201: 14.01 upload_201: 0.00 survey_201: 0.00 variations_201: 0.00 
+iteration 202 long_202: 1.19 upload_202: 1.57 survey_202: 4.53 variations_202: 5.82 
+iteration 204 long_204: 12.80 upload_204: 2.39 survey_204: 5.63 variations_204: 3.76 
+iteration 205 long_205: File absent upload_205: File absent survey_205: File absent variations_205: File absent 
+iteration 207 long_207: File absent upload_207: File absent survey_207: File absent variations_207: File absent 
+iteration 208 long_208: 1.19 upload_208: 1.57 survey_208: 4.53 variations_208: 5.82 
+iteration 209 long_209: 1.19 upload_209: 1.57 survey_209: 4.53 variations_209: 5.82 
+iteration 211 long_211: File absent upload_211: File absent survey_211: File absent variations_211: File absent 
+iteration 212 long_212: 8.35 upload_212: 1.09 survey_212: 4.18 variations_212: 6.27 
+iteration 213 long_213: 14.01 upload_213: 0.00 survey_213: 0.00 variations_213: 0.00 
+iteration 216 long_216: 8.44 upload_216: 1.13 survey_216: 4.38 variations_216: 6.27 
+iteration 217 long_217: 1.19 upload_217: 1.57 survey_217: 4.53 variations_217: 5.82 
+iteration 218 long_218: 1.19 upload_218: 1.57 survey_218: 4.53 variations_218: 5.82 
+iteration 220 long_220: 1.18 upload_220: 1.52 survey_220: 4.50 variations_220: 5.78 
+iteration 223 long_223: File absent upload_223: File absent survey_223: File absent variations_223: File absent 
+iteration 226 long_226: 8.35 upload_226: 1.09 survey_226: 4.18 variations_226: 6.27 
+iteration 231 long_231: 12.40 upload_231: 2.39 survey_231: 5.72 variations_231: 3.71 
+iteration 232 long_232: File absent upload_232: File absent survey_232: File absent variations_232: File absent 
+iteration 235 long_235: File absent upload_235: File absent survey_235: File absent variations_235: File absent 
+iteration 236 long_236: File absent upload_236: File absent survey_236: File absent variations_236: File absent 
+iteration 237 long_237: 0.39 upload_237: 0.00 survey_237: 0.01 variations_237: 0.00 
+iteration 239 long_239: 1.19 upload_239: 1.57 survey_239: 4.53 variations_239: 5.82 
+iteration 242 long_242: File absent upload_242: File absent survey_242: File absent variations_242: File absent 
+iteration 243 long_243: File absent upload_243: File absent survey_243: File absent variations_243: File absent 
+iteration 246 long_246: File absent upload_246: File absent survey_246: File absent variations_246: File absent 
+iteration 247 long_247: File absent upload_247: File absent survey_247: File absent variations_247: File absent 
+iteration 248 long_248: 1.19 upload_248: 1.57 survey_248: 4.53 variations_248: 5.82 
+iteration 251 long_251: 9.45 upload_251: 1.13 survey_251: 6.07 variations_251: 6.81 
+iteration 252 long_252: 1.19 upload_252: 1.57 survey_252: 4.53 variations_252: 5.82 
+iteration 254 long_254: File absent upload_254: File absent survey_254: File absent variations_254: File absent 
+iteration 259 long_259: File absent upload_259: File absent survey_259: File absent variations_259: File absent 
+iteration 260 long_260: File absent upload_260: File absent survey_260: File absent variations_260: File absent 
+iteration 261 long_261: 1.19 upload_261: 1.57 survey_261: 4.53 variations_261: 5.82 
+iteration 262 long_262: 9.45 upload_262: 1.13 survey_262: 6.07 variations_262: 6.81 
+iteration 265 long_265: File absent upload_265: File absent survey_265: File absent variations_265: File absent 
+iteration 266 long_266: 13.75 upload_266: File absent survey_266: File absent variations_266: File absent 
+iteration 271 long_271: 12.37 upload_271: 2.77 survey_271: 0.00 variations_271: 0.00 
+iteration 274 long_274: 12.22 upload_274: 0.00 survey_274: 0.11 variations_274: 0.11 
+iteration 275 long_275: 0.00 upload_275: 0.00 survey_275: 0.50 variations_275: 0.61 
+iteration 276 long_276: 12.97 upload_276: 2.42 survey_276: 0.11 variations_276: 0.11 
+iteration 277 long_277: File absent upload_277: File absent survey_277: File absent variations_277: File absent 
+iteration 278 long_278: 1.19 upload_278: 1.57 survey_278: 4.53 variations_278: 5.82 
+iteration 279 long_279: File absent upload_279: File absent survey_279: File absent variations_279: File absent 
+iteration 281 long_281: File absent upload_281: File absent survey_281: File absent variations_281: File absent 
+iteration 283 long_283: 8.44 upload_283: 1.13 survey_283: 4.38 variations_283: 6.27 
+iteration 285 long_285: 14.01 upload_285: 0.00 survey_285: 0.00 variations_285: 0.00 
+iteration 286 long_286: 1.19 upload_286: 1.57 survey_286: 4.53 variations_286: 5.82 
+iteration 288 long_288: File absent upload_288: File absent survey_288: File absent variations_288: File absent 
+iteration 289 long_289: 1.19 upload_289: 1.57 survey_289: 4.53 variations_289: 5.82 
+iteration 290 long_290: 12.80 upload_290: 2.39 survey_290: 5.63 variations_290: 3.76 
+iteration 291 long_291: 8.35 upload_291: 1.09 survey_291: 4.18 variations_291: 6.27 
+iteration 293 long_293: 14.01 upload_293: 0.00 survey_293: 0.00 variations_293: 0.00 
+iteration 295 long_295: 12.22 upload_295: 0.00 survey_295: 0.11 variations_295: 0.11 
+iteration 298 long_298: 1.19 upload_298: 1.57 survey_298: 4.53 variations_298: 5.82 
+iteration 300 long_300: 1.19 upload_300: 1.57 survey_300: 4.53 variations_300: 5.82 
+iteration 301 long_301: 11.96 upload_301: 2.43 survey_301: 0.00 variations_301: 0.00 
+iteration 302 long_302: 1.19 upload_302: 1.57 survey_302: 4.53 variations_302: 5.82 
+iteration 304 long_304: 12.22 upload_304: 0.00 survey_304: 0.11 variations_304: 0.11 
+iteration 306 long_306: 8.35 upload_306: 1.09 survey_306: 4.18 variations_306: 6.27 
+iteration 309 long_309: 1.19 upload_309: 1.57 survey_309: 4.53 variations_309: 5.82 
+iteration 310 long_310: 9.93 upload_310: 0.41 survey_310: 6.57 variations_310: 4.35 
+iteration 313 long_313: 9.72 upload_313: File absent survey_313: File absent variations_313: File absent 
+iteration 316 long_316: 1.19 upload_316: 1.57 survey_316: 4.53 variations_316: 5.82 
+iteration 322 long_322: 9.45 upload_322: 1.13 survey_322: 6.07 variations_322: 6.81 
+iteration 327 long_327: File absent upload_327: File absent survey_327: File absent variations_327: File absent 
+iteration 330 long_330: 9.72 upload_330: File absent survey_330: File absent variations_330: File absent 
+iteration 335 long_335: File absent upload_335: File absent survey_335: File absent variations_335: File absent 
+iteration 336 long_336: 8.44 upload_336: 1.13 survey_336: 4.38 variations_336: 6.27 
+iteration 339 long_339: 1.19 upload_339: 1.57 survey_339: 4.53 variations_339: 5.82 
+iteration 340 long_340: File absent upload_340: File absent survey_340: File absent variations_340: File absent 
+iteration 342 long_342: 0.01 upload_342: File absent survey_342: File absent variations_342: File absent 
+iteration 343 long_343: File absent upload_343: File absent survey_343: File absent variations_343: File absent 
+iteration 345 long_345: 8.35 upload_345: 1.09 survey_345: 4.18 variations_345: 6.27 
+iteration 355 long_355: 1.19 upload_355: 1.57 survey_355: 4.53 variations_355: 5.82 
+iteration 358 long_358: 14.01 upload_358: 0.00 survey_358: 0.00 variations_358: 0.00 
+iteration 360 long_360: File absent upload_360: File absent survey_360: File absent variations_360: File absent 
+iteration 363 long_363: 8.44 upload_363: 1.13 survey_363: 4.38 variations_363: 6.27 
+iteration 364 long_364: File absent upload_364: File absent survey_364: File absent variations_364: File absent 
+iteration 366 long_366: 9.93 upload_366: 0.41 survey_366: 6.57 variations_366: 4.35 
+iteration 367 long_367: 9.72 upload_367: File absent survey_367: File absent variations_367: File absent 
+iteration 368 long_368: 8.44 upload_368: 1.13 survey_368: 4.38 variations_368: 6.27 
+iteration 370 long_370: File absent upload_370: File absent survey_370: File absent variations_370: File absent 
+iteration 371 long_371: 1.19 upload_371: 1.57 survey_371: 4.53 variations_371: 5.82 
+iteration 374 long_374: 1.19 upload_374: 1.57 survey_374: 4.53 variations_374: 5.82 
+iteration 379 long_379: 9.45 upload_379: 1.13 survey_379: 6.07 variations_379: 6.81 
+iteration 380 long_380: File absent upload_380: File absent survey_380: File absent variations_380: File absent 
+iteration 384 long_384: 12.97 upload_384: 2.42 survey_384: 0.11 variations_384: 0.11 
+iteration 386 long_386: 1.19 upload_386: 1.57 survey_386: 4.53 variations_386: 5.82 
+iteration 388 long_388: 1.18 upload_388: 1.52 survey_388: 4.50 variations_388: 5.78 
+iteration 389 long_389: 12.37 upload_389: 2.77 survey_389: 0.00 variations_389: 0.00 
+iteration 390 long_390: 1.19 upload_390: 1.57 survey_390: 4.53 variations_390: 5.82 
+iteration 391 long_391: 1.18 upload_391: 1.52 survey_391: 4.50 variations_391: 5.78 
+iteration 392 long_392: 1.19 upload_392: 1.57 survey_392: 4.53 variations_392: 5.82 
+iteration 393 long_393: File absent upload_393: File absent survey_393: File absent variations_393: File absent 
+iteration 396 long_396: File absent upload_396: File absent survey_396: File absent variations_396: File absent 
+iteration 400 long_400: 0.39 upload_400: 0.00 survey_400: 0.01 variations_400: 0.00 
+iteration 401 long_401: 11.53 upload_401: 2.42 survey_401: 0.00 variations_401: 0.00 
+iteration 414 long_414: File absent upload_414: File absent survey_414: File absent variations_414: File absent 
+iteration 418 long_418: 12.80 upload_418: 2.39 survey_418: 5.63 variations_418: 3.76 
+iteration 419 long_419: 12.22 upload_419: 0.00 survey_419: 0.11 variations_419: 0.11 
+iteration 420 long_420: 12.40 upload_420: 2.39 survey_420: 5.72 variations_420: 3.71 
+iteration 423 long_423: 9.93 upload_423: 0.41 survey_423: 6.57 variations_423: 4.35 
+iteration 424 long_424: 1.19 upload_424: 1.57 survey_424: 4.53 variations_424: 5.82 
+iteration 427 long_427: 1.19 upload_427: 1.57 survey_427: 4.53 variations_427: 5.82 
+iteration 428 long_428: 1.19 upload_428: 1.57 survey_428: 4.53 variations_428: 5.82 
+iteration 429 long_429: 8.44 upload_429: 1.13 survey_429: 4.38 variations_429: 6.27 
+iteration 430 long_430: 12.40 upload_430: 2.39 survey_430: 5.72 variations_430: 3.71 
+iteration 431 long_431: File absent upload_431: File absent survey_431: File absent variations_431: File absent 
+iteration 432 long_432: File absent upload_432: File absent survey_432: File absent variations_432: File absent 
+iteration 435 long_435: 9.93 upload_435: 0.41 survey_435: 6.57 variations_435: 4.35 
+iteration 439 long_439: File absent upload_439: File absent survey_439: File absent variations_439: File absent 
+iteration 440 long_440: 1.19 upload_440: 1.57 survey_440: 4.53 variations_440: 5.82 
+iteration 442 long_442: 8.44 upload_442: 1.13 survey_442: 4.38 variations_442: 6.27 
+iteration 447 long_447: File absent upload_447: File absent survey_447: File absent variations_447: File absent 
+iteration 448 long_448: 9.33 upload_448: 1.04 survey_448: 6.01 variations_448: 6.27 
+iteration 449 long_449: 1.19 upload_449: 1.57 survey_449: 4.53 variations_449: 5.82 
+iteration 450 long_450: File absent upload_450: File absent survey_450: File absent variations_450: File absent 
+iteration 452 long_452: 9.93 upload_452: 0.41 survey_452: 6.57 variations_452: 4.35 
+iteration 456 long_456: 9.93 upload_456: 0.41 survey_456: 6.57 variations_456: 4.35 
+iteration 457 long_457: 1.19 upload_457: 1.57 survey_457: 4.53 variations_457: 5.82 
+iteration 459 long_459: 1.19 upload_459: 1.57 survey_459: 4.53 variations_459: 5.82 
+iteration 460 long_460: 1.19 upload_460: 1.57 survey_460: 4.53 variations_460: 5.82 
+iteration 461 long_461: 12.22 upload_461: 0.00 survey_461: 0.11 variations_461: 0.11 
+iteration 462 long_462: File absent upload_462: File absent survey_462: File absent variations_462: File absent 
+iteration 463 long_463: 8.35 upload_463: 1.09 survey_463: 4.18 variations_463: 6.27 
+iteration 465 long_465: 1.19 upload_465: 1.57 survey_465: 4.53 variations_465: 5.82 
+iteration 466 long_466: 14.01 upload_466: 0.00 survey_466: 0.00 variations_466: 0.00 
+iteration 468 long_468: 0.00 upload_468: 0.38 survey_468: 1.57 variations_468: 1.91 
+iteration 469 long_469: 12.22 upload_469: 0.00 survey_469: 0.11 variations_469: 0.11 
+iteration 470 long_470: 1.19 upload_470: 1.57 survey_470: 4.53 variations_470: 5.82 
+iteration 474 long_474: 11.96 upload_474: 2.43 survey_474: 0.00 variations_474: 0.00 
+iteration 477 long_477: 0.00 upload_477: 0.00 survey_477: 0.50 variations_477: 0.61 
+iteration 480 long_480: 1.19 upload_480: 1.57 survey_480: 4.53 variations_480: 5.82 
+iteration 484 long_484: 1.19 upload_484: 1.57 survey_484: 4.53 variations_484: 5.82 
+iteration 488 long_488: 8.35 upload_488: 1.09 survey_488: 4.18 variations_488: 6.27 
+iteration 490 long_490: 0.00 upload_490: 0.38 survey_490: 1.57 variations_490: 1.91 
+iteration 494 long_494: File absent upload_494: File absent survey_494: File absent variations_494: File absent 
+iteration 496 long_496: 14.01 upload_496: 0.00 survey_496: 0.00 variations_496: 0.00 
+iteration 499 long_499: 9.45 upload_499: 1.13 survey_499: 6.07 variations_499: 6.81 
+iteration 500 long_500: 9.93 upload_500: 0.41 survey_500: 6.57 variations_500: 4.35 
+iteration 503 long_503: 8.44 upload_503: 1.13 survey_503: 4.38 variations_503: 6.27 
+iteration 504 long_504: 14.01 upload_504: 0.00 survey_504: 0.00 variations_504: 0.00 
+iteration 505 long_505: 1.19 upload_505: 1.57 survey_505: 4.53 variations_505: 5.82 
+iteration 506 long_506: 1.19 upload_506: 1.57 survey_506: 4.53 variations_506: 5.82 
+iteration 514 long_514: File absent upload_514: File absent survey_514: File absent variations_514: File absent 
+iteration 515 long_515: 1.19 upload_515: 1.57 survey_515: 4.53 variations_515: 5.82 
+iteration 517 long_517: File absent upload_517: File absent survey_517: File absent variations_517: File absent 
+iteration 518 long_518: 1.19 upload_518: 1.57 survey_518: 4.53 variations_518: 5.82 
+iteration 523 long_523: 1.19 upload_523: 1.57 survey_523: 4.53 variations_523: 5.82 
+iteration 526 long_526: 1.19 upload_526: 1.57 survey_526: 4.53 variations_526: 5.82 
+iteration 527 long_527: File absent upload_527: File absent survey_527: File absent variations_527: File absent 
+iteration 529 long_529: 1.19 upload_529: 1.57 survey_529: 4.53 variations_529: 5.82 
+iteration 531 long_531: 1.19 upload_531: 1.57 survey_531: 4.53 variations_531: 5.82 
+iteration 532 long_532: 12.37 upload_532: 2.77 survey_532: 0.00 variations_532: 0.00 
+iteration 533 long_533: File absent upload_533: File absent survey_533: File absent variations_533: File absent 
+iteration 534 long_534: 1.19 upload_534: 1.57 survey_534: 4.53 variations_534: 5.82 
+iteration 535 long_535: File absent upload_535: File absent survey_535: File absent variations_535: File absent 
+iteration 536 long_536: 1.19 upload_536: 1.57 survey_536: 4.53 variations_536: 5.82 
+iteration 537 long_537: 8.35 upload_537: 1.09 survey_537: 4.18 variations_537: 6.27 
+iteration 540 long_540: File absent upload_540: File absent survey_540: File absent variations_540: File absent 
+iteration 541 long_541: 8.44 upload_541: 1.13 survey_541: 4.38 variations_541: 6.27 
+iteration 542 long_542: 8.44 upload_542: 1.13 survey_542: 4.38 variations_542: 6.27 
+iteration 543 long_543: 1.19 upload_543: 1.57 survey_543: 4.53 variations_543: 5.82 
+iteration 544 long_544: File absent upload_544: File absent survey_544: File absent variations_544: File absent 
+iteration 545 long_545: 9.93 upload_545: 0.41 survey_545: 6.57 variations_545: 4.35 
+iteration 547 long_547: File absent upload_547: File absent survey_547: File absent variations_547: File absent 
+iteration 548 long_548: File absent upload_548: File absent survey_548: File absent variations_548: File absent 
+iteration 549 long_549: 0.00 upload_549: 0.00 survey_549: 10.40 variations_549: 11.04 
+iteration 551 long_551: 1.19 upload_551: 1.57 survey_551: 4.53 variations_551: 5.82 
+iteration 554 long_554: 12.22 upload_554: 0.00 survey_554: 0.11 variations_554: 0.11 
+iteration 555 long_555: File absent upload_555: File absent survey_555: File absent variations_555: File absent 
+iteration 556 long_556: 1.19 upload_556: 1.57 survey_556: 4.53 variations_556: 5.82 
+iteration 558 long_558: File absent upload_558: File absent survey_558: File absent variations_558: File absent 
+iteration 559 long_559: 1.19 upload_559: 1.57 survey_559: 4.53 variations_559: 5.82 
+iteration 560 long_560: File absent upload_560: File absent survey_560: File absent variations_560: File absent 
+iteration 561 long_561: 9.93 upload_561: 0.41 survey_561: 6.57 variations_561: 4.35 
+iteration 562 long_562: 1.19 upload_562: 1.57 survey_562: 4.53 variations_562: 5.82 
+iteration 565 long_565: File absent upload_565: File absent survey_565: File absent variations_565: File absent 
+iteration 566 long_566: 12.22 upload_566: 0.00 survey_566: 0.11 variations_566: 0.11 
+iteration 569 long_569: 0.00 upload_569: 0.00 survey_569: 0.50 variations_569: 0.61 
+iteration 570 long_570: File absent upload_570: File absent survey_570: File absent variations_570: File absent 
+iteration 571 long_571: File absent upload_571: File absent survey_571: File absent variations_571: File absent 
+iteration 573 long_573: 1.19 upload_573: 1.57 survey_573: 4.53 variations_573: 5.82 
+iteration 575 long_575: File absent upload_575: File absent survey_575: File absent variations_575: File absent 
+iteration 576 long_576: 1.19 upload_576: 1.57 survey_576: 4.53 variations_576: 5.82 
+iteration 581 long_581: 8.35 upload_581: 1.09 survey_581: 4.18 variations_581: 6.27 
+iteration 583 long_583: File absent upload_583: File absent survey_583: File absent variations_583: File absent 
+iteration 584 long_584: 12.97 upload_584: 2.42 survey_584: 0.11 variations_584: 0.11 
+iteration 589 long_589: 1.19 upload_589: 1.57 survey_589: 4.53 variations_589: 5.82 
+iteration 592 long_592: 11.96 upload_592: 2.43 survey_592: 0.00 variations_592: 0.00 
+iteration 595 long_595: 9.93 upload_595: 0.41 survey_595: 6.57 variations_595: 4.35 
+iteration 598 long_598: File absent upload_598: File absent survey_598: File absent variations_598: File absent 
+iteration 599 long_599: File absent upload_599: File absent survey_599: File absent variations_599: File absent 
+iteration 604 long_604: 1.19 upload_604: 1.57 survey_604: 4.53 variations_604: 5.82 
+iteration 605 long_605: 11.53 upload_605: 2.42 survey_605: 0.00 variations_605: 0.00 
+iteration 607 long_607: 1.19 upload_607: 1.57 survey_607: 4.53 variations_607: 5.82 
+iteration 608 long_608: 9.72 upload_608: File absent survey_608: File absent variations_608: File absent 
+iteration 611 long_611: File absent upload_611: File absent survey_611: File absent variations_611: File absent 
+iteration 612 long_612: File absent upload_612: File absent survey_612: File absent variations_612: File absent 
+iteration 613 long_613: 0.01 upload_613: File absent survey_613: File absent variations_613: File absent 
+iteration 617 long_617: 1.19 upload_617: 1.57 survey_617: 4.53 variations_617: 5.82 
+iteration 618 long_618: 12.22 upload_618: 0.00 survey_618: 0.11 variations_618: 0.11 
+iteration 619 long_619: File absent upload_619: File absent survey_619: File absent variations_619: File absent 
+iteration 620 long_620: 14.01 upload_620: 0.00 survey_620: 0.00 variations_620: 0.00 
+iteration 621 long_621: 9.45 upload_621: 1.13 survey_621: 6.07 variations_621: 6.81 
+iteration 622 long_622: 1.18 upload_622: 1.52 survey_622: 4.50 variations_622: 5.78 
+iteration 623 long_623: File absent upload_623: File absent survey_623: File absent variations_623: File absent 
+iteration 624 long_624: 1.19 upload_624: 1.57 survey_624: 4.53 variations_624: 5.82 
+iteration 625 long_625: 14.01 upload_625: 0.00 survey_625: 0.00 variations_625: 0.00 
+iteration 626 long_626: 8.77 upload_626: 1.90 survey_626: 0.00 variations_626: 0.00 
+iteration 627 long_627: File absent upload_627: File absent survey_627: File absent variations_627: File absent 
+iteration 628 long_628: 11.96 upload_628: 2.43 survey_628: 0.00 variations_628: 0.00 
+iteration 630 long_630: File absent upload_630: File absent survey_630: File absent variations_630: File absent 
+iteration 633 long_633: File absent upload_633: File absent survey_633: File absent variations_633: File absent 
+iteration 636 long_636: File absent upload_636: File absent survey_636: File absent variations_636: File absent 
+iteration 637 long_637: File absent upload_637: File absent survey_637: File absent variations_637: File absent 
+iteration 638 long_638: 1.19 upload_638: 1.57 survey_638: 4.53 variations_638: 5.82 
+iteration 639 long_639: 0.00 upload_639: 0.18 survey_639: 0.00 variations_639: 0.00 
+iteration 641 long_641: File absent upload_641: File absent survey_641: File absent variations_641: File absent 
+iteration 643 long_643: 1.19 upload_643: 1.57 survey_643: 4.53 variations_643: 5.82 
+iteration 647 long_647: 9.45 upload_647: 1.13 survey_647: 6.07 variations_647: 6.81 
+iteration 651 long_651: 12.40 upload_651: 2.39 survey_651: 5.72 variations_651: 3.71 
+iteration 652 long_652: 1.19 upload_652: 1.57 survey_652: 4.53 variations_652: 5.82 
+iteration 655 long_655: 9.93 upload_655: 0.41 survey_655: 6.57 variations_655: 4.35 
+iteration 658 long_658: 1.19 upload_658: 1.57 survey_658: 4.53 variations_658: 5.82 
+iteration 659 long_659: 1.19 upload_659: 1.57 survey_659: 4.53 variations_659: 5.82 
+iteration 661 long_661: File absent upload_661: File absent survey_661: File absent variations_661: File absent 
+iteration 664 long_664: 9.72 upload_664: File absent survey_664: File absent variations_664: File absent 
+iteration 666 long_666: 12.97 upload_666: 2.42 survey_666: 0.11 variations_666: 0.11 
+iteration 667 long_667: File absent upload_667: File absent survey_667: File absent variations_667: File absent 
+iteration 668 long_668: File absent upload_668: File absent survey_668: File absent variations_668: File absent 
+iteration 669 long_669: 1.19 upload_669: 1.57 survey_669: 4.53 variations_669: 5.82 
+iteration 670 long_670: 12.22 upload_670: 0.00 survey_670: 0.11 variations_670: 0.11 
+iteration 672 long_672: File absent upload_672: File absent survey_672: File absent variations_672: File absent 
+iteration 674 long_674: 8.44 upload_674: 1.13 survey_674: 4.38 variations_674: 6.27 
+iteration 675 long_675: 1.19 upload_675: 1.57 survey_675: 4.53 variations_675: 5.82 
+iteration 677 long_677: 0.00 upload_677: 0.00 survey_677: 0.50 variations_677: 0.61 
+iteration 679 long_679: 11.96 upload_679: 2.43 survey_679: 0.00 variations_679: 0.00 
+iteration 680 long_680: 1.18 upload_680: 1.52 survey_680: 4.50 variations_680: 5.78 
+iteration 682 long_682: File absent upload_682: File absent survey_682: File absent variations_682: File absent 
+iteration 683 long_683: File absent upload_683: File absent survey_683: File absent variations_683: File absent 
+iteration 686 long_686: 1.19 upload_686: 1.57 survey_686: 4.53 variations_686: 5.82 
+iteration 688 long_688: 8.35 upload_688: 1.09 survey_688: 4.18 variations_688: 6.27 
+iteration 690 long_690: 9.93 upload_690: 0.41 survey_690: 6.57 variations_690: 4.35 
+iteration 692 long_692: 8.44 upload_692: 1.13 survey_692: 4.38 variations_692: 6.27 
+iteration 696 long_696: File absent upload_696: File absent survey_696: File absent variations_696: File absent 
+iteration 697 long_697: File absent upload_697: File absent survey_697: File absent variations_697: File absent 
+iteration 700 long_700: 1.19 upload_700: 1.57 survey_700: 4.53 variations_700: 5.82 
+iteration 703 long_703: 8.77 upload_703: 1.90 survey_703: 0.00 variations_703: 0.00 
+iteration 705 long_705: 1.19 upload_705: 1.57 survey_705: 4.53 variations_705: 5.82 
+iteration 708 long_708: 1.19 upload_708: 1.57 survey_708: 4.53 variations_708: 5.82 
+iteration 710 long_710: 1.19 upload_710: 1.57 survey_710: 4.53 variations_710: 5.82 
+iteration 711 long_711: 1.19 upload_711: 1.57 survey_711: 4.53 variations_711: 5.82 
+iteration 715 long_715: 1.19 upload_715: 1.57 survey_715: 4.53 variations_715: 5.82 
+iteration 716 long_716: 8.35 upload_716: 1.09 survey_716: 4.18 variations_716: 6.27 
+iteration 719 long_719: 12.97 upload_719: 2.42 survey_719: 0.11 variations_719: 0.11 
+iteration 720 long_720: 8.77 upload_720: 1.90 survey_720: 0.00 variations_720: 0.00 
+iteration 724 long_724: File absent upload_724: File absent survey_724: File absent variations_724: File absent 
+iteration 725 long_725: 0.00 upload_725: 0.00 survey_725: 0.50 variations_725: 0.61 
+iteration 726 long_726: 1.18 upload_726: 1.52 survey_726: 4.50 variations_726: 5.78 
+iteration 727 long_727: 1.19 upload_727: 1.57 survey_727: 4.53 variations_727: 5.82 
+iteration 732 long_732: 1.19 upload_732: 1.57 survey_732: 4.53 variations_732: 5.82 
+iteration 733 long_733: 0.00 upload_733: 0.38 survey_733: 1.57 variations_733: 1.91 
+iteration 734 long_734: 9.72 upload_734: File absent survey_734: File absent variations_734: File absent 
+iteration 735 long_735: 1.19 upload_735: 1.57 survey_735: 4.53 variations_735: 5.82 
+iteration 736 long_736: 1.19 upload_736: 1.57 survey_736: 4.53 variations_736: 5.82 
+iteration 737 long_737: 8.35 upload_737: 1.09 survey_737: 4.18 variations_737: 6.27 
+iteration 738 long_738: 1.19 upload_738: 1.57 survey_738: 4.53 variations_738: 5.82 
+iteration 740 long_740: 11.53 upload_740: 2.42 survey_740: 0.00 variations_740: 0.00 
+iteration 741 long_741: 8.44 upload_741: 1.13 survey_741: 4.38 variations_741: 6.27 
+iteration 744 long_744: 12.80 upload_744: 2.39 survey_744: 5.63 variations_744: 3.76 
+iteration 745 long_745: 8.44 upload_745: 1.13 survey_745: 4.38 variations_745: 6.27 
+iteration 746 long_746: File absent upload_746: File absent survey_746: File absent variations_746: File absent 
+iteration 747 long_747: 12.97 upload_747: 2.42 survey_747: 0.11 variations_747: 0.11 
+iteration 749 long_749: 13.75 upload_749: File absent survey_749: File absent variations_749: File absent 
+iteration 751 long_751: File absent upload_751: File absent survey_751: File absent variations_751: File absent 
+iteration 753 long_753: 1.18 upload_753: 1.52 survey_753: 4.50 variations_753: 5.78 
+iteration 754 long_754: 1.19 upload_754: 1.57 survey_754: 4.53 variations_754: 5.82 
+iteration 755 long_755: File absent upload_755: File absent survey_755: File absent variations_755: File absent 
+iteration 756 long_756: 11.96 upload_756: 2.43 survey_756: 0.00 variations_756: 0.00 
+iteration 757 long_757: 1.19 upload_757: 1.57 survey_757: 4.53 variations_757: 5.82 
+iteration 758 long_758: 0.00 upload_758: 0.18 survey_758: 0.00 variations_758: 0.00 
+iteration 759 long_759: 9.72 upload_759: File absent survey_759: File absent variations_759: File absent 
+iteration 760 long_760: File absent upload_760: File absent survey_760: File absent variations_760: File absent 
+iteration 761 long_761: 12.97 upload_761: 2.42 survey_761: 0.11 variations_761: 0.11 
+iteration 763 long_763: 1.18 upload_763: 1.52 survey_763: 4.50 variations_763: 5.78 
+iteration 767 long_767: 11.53 upload_767: 2.42 survey_767: 0.00 variations_767: 0.00 
+iteration 768 long_768: 11.53 upload_768: 2.42 survey_768: 0.00 variations_768: 0.00 
+iteration 771 long_771: 12.40 upload_771: 2.39 survey_771: 5.72 variations_771: 3.71 
+iteration 772 long_772: File absent upload_772: File absent survey_772: File absent variations_772: File absent 
+iteration 777 long_777: File absent upload_777: File absent survey_777: File absent variations_777: File absent 
+iteration 781 long_781: 12.22 upload_781: 0.00 survey_781: 0.11 variations_781: 0.11 
+iteration 782 long_782: 1.19 upload_782: 1.57 survey_782: 4.53 variations_782: 5.82 
+iteration 783 long_783: 1.19 upload_783: 1.57 survey_783: 4.53 variations_783: 5.82 
+iteration 787 long_787: File absent upload_787: File absent survey_787: File absent variations_787: File absent 
+iteration 789 long_789: 0.01 upload_789: File absent survey_789: File absent variations_789: File absent 
+iteration 793 long_793: 1.19 upload_793: 1.57 survey_793: 4.53 variations_793: 5.82 
+iteration 795 long_795: File absent upload_795: File absent survey_795: File absent variations_795: File absent 
+iteration 796 long_796: 1.19 upload_796: 1.57 survey_796: 4.53 variations_796: 5.82 
+iteration 797 long_797: 1.19 upload_797: 1.57 survey_797: 4.53 variations_797: 5.82 
+iteration 799 long_799: File absent upload_799: File absent survey_799: File absent variations_799: File absent 
+iteration 800 long_800: File absent upload_800: File absent survey_800: File absent variations_800: File absent 
+iteration 803 long_803: 9.45 upload_803: 1.13 survey_803: 6.07 variations_803: 6.81 
+iteration 808 long_808: 8.35 upload_808: 1.09 survey_808: 4.18 variations_808: 6.27 
+iteration 809 long_809: 12.40 upload_809: 2.39 survey_809: 5.72 variations_809: 3.71 
+iteration 810 long_810: 1.19 upload_810: 1.57 survey_810: 4.53 variations_810: 5.82 
+iteration 811 long_811: 1.19 upload_811: 1.57 survey_811: 4.53 variations_811: 5.82 
+iteration 813 long_813: File absent upload_813: File absent survey_813: File absent variations_813: File absent 
+iteration 818 long_818: 0.01 upload_818: File absent survey_818: File absent variations_818: File absent 
+iteration 819 long_819: File absent upload_819: File absent survey_819: File absent variations_819: File absent 
+iteration 821 long_821: 1.19 upload_821: 1.57 survey_821: 4.53 variations_821: 5.82 
+iteration 822 long_822: 0.00 upload_822: 0.18 survey_822: 0.00 variations_822: 0.00 
+iteration 823 long_823: 1.19 upload_823: 1.57 survey_823: 4.53 variations_823: 5.82 
+iteration 824 long_824: 1.19 upload_824: 1.57 survey_824: 4.53 variations_824: 5.82 
+iteration 825 long_825: File absent upload_825: File absent survey_825: File absent variations_825: File absent 
+iteration 828 long_828: 12.22 upload_828: 0.00 survey_828: 0.11 variations_828: 0.11 
+iteration 830 long_830: 9.93 upload_830: 0.41 survey_830: 6.57 variations_830: 4.35 
+iteration 831 long_831: File absent upload_831: File absent survey_831: File absent variations_831: File absent 
+iteration 832 long_832: 1.19 upload_832: 1.57 survey_832: 4.53 variations_832: 5.82 
+iteration 836 long_836: File absent upload_836: File absent survey_836: File absent variations_836: File absent 
+iteration 837 long_837: 12.80 upload_837: 2.39 survey_837: 5.63 variations_837: 3.76 
+iteration 838 long_838: 8.35 upload_838: 1.09 survey_838: 4.18 variations_838: 6.27 
+iteration 839 long_839: 1.18 upload_839: 1.52 survey_839: 4.50 variations_839: 5.78 
+iteration 841 long_841: 1.19 upload_841: 1.57 survey_841: 4.53 variations_841: 5.82 
+iteration 844 long_844: 9.45 upload_844: 1.13 survey_844: 6.07 variations_844: 6.81 
+iteration 845 long_845: 1.19 upload_845: 1.57 survey_845: 4.53 variations_845: 5.82 
+iteration 846 long_846: 12.80 upload_846: 2.39 survey_846: 5.63 variations_846: 3.76 
+iteration 847 long_847: 1.19 upload_847: 1.57 survey_847: 4.53 variations_847: 5.82 
+iteration 848 long_848: File absent upload_848: File absent survey_848: File absent variations_848: File absent 
+iteration 849 long_849: 9.72 upload_849: File absent survey_849: File absent variations_849: File absent 
+iteration 850 long_850: 1.19 upload_850: 1.57 survey_850: 4.53 variations_850: 5.82 
+iteration 852 long_852: 1.19 upload_852: 1.57 survey_852: 4.53 variations_852: 5.82 
+iteration 856 long_856: File absent upload_856: File absent survey_856: File absent variations_856: File absent 
+iteration 857 long_857: 11.96 upload_857: 2.43 survey_857: 0.00 variations_857: 0.00 
+iteration 858 long_858: 0.00 upload_858: 0.00 survey_858: 0.50 variations_858: 0.61 
+iteration 859 long_859: 0.00 upload_859: 0.18 survey_859: 0.00 variations_859: 0.00 
+iteration 862 long_862: 1.19 upload_862: 1.57 survey_862: 4.53 variations_862: 5.82 
+iteration 863 long_863: 1.19 upload_863: 1.57 survey_863: 4.53 variations_863: 5.82 
+iteration 865 long_865: File absent upload_865: File absent survey_865: File absent variations_865: File absent 
+iteration 866 long_866: 1.19 upload_866: 1.57 survey_866: 4.53 variations_866: 5.82 
+iteration 867 long_867: 8.44 upload_867: 1.13 survey_867: 4.38 variations_867: 6.27 
+iteration 870 long_870: 1.19 upload_870: 1.57 survey_870: 4.53 variations_870: 5.82 
+iteration 872 long_872: File absent upload_872: File absent survey_872: File absent variations_872: File absent 
+iteration 874 long_874: File absent upload_874: File absent survey_874: File absent variations_874: File absent 
+iteration 875 long_875: 8.44 upload_875: 1.13 survey_875: 4.38 variations_875: 6.27 
+iteration 876 long_876: 9.45 upload_876: 1.13 survey_876: 6.07 variations_876: 6.81 
+iteration 877 long_877: 12.40 upload_877: 2.39 survey_877: 5.72 variations_877: 3.71 
+iteration 878 long_878: 14.01 upload_878: 0.00 survey_878: 0.00 variations_878: 0.00 
+iteration 880 long_880: 12.97 upload_880: 2.42 survey_880: 0.11 variations_880: 0.11 
+iteration 882 long_882: 1.19 upload_882: 1.57 survey_882: 4.53 variations_882: 5.82 
+iteration 883 long_883: 1.19 upload_883: 1.57 survey_883: 4.53 variations_883: 5.82 
+iteration 884 long_884: File absent upload_884: File absent survey_884: File absent variations_884: File absent 
+iteration 888 long_888: 1.18 upload_888: 1.52 survey_888: 4.50 variations_888: 5.78 
+iteration 891 long_891: File absent upload_891: File absent survey_891: File absent variations_891: File absent 
+iteration 892 long_892: 8.77 upload_892: 1.90 survey_892: 0.00 variations_892: 0.00 
+iteration 893 long_893: 13.75 upload_893: File absent survey_893: File absent variations_893: File absent 
+iteration 894 long_894: 12.22 upload_894: 0.00 survey_894: 0.11 variations_894: 0.11 
+iteration 895 long_895: File absent upload_895: File absent survey_895: File absent variations_895: File absent 
+iteration 898 long_898: 9.93 upload_898: 0.41 survey_898: 6.57 variations_898: 4.35 
+iteration 900 long_900: 1.19 upload_900: 1.57 survey_900: 4.53 variations_900: 5.82 
+iteration 904 long_904: 0.01 upload_904: File absent survey_904: File absent variations_904: File absent 
+iteration 907 long_907: 13.75 upload_907: File absent survey_907: File absent variations_907: File absent 
+iteration 909 long_909: 1.19 upload_909: 1.57 survey_909: 4.53 variations_909: 5.82 
+iteration 915 long_915: 8.35 upload_915: 1.09 survey_915: 4.18 variations_915: 6.27 
+iteration 918 long_918: 12.97 upload_918: 2.42 survey_918: 0.11 variations_918: 0.11 
+iteration 919 long_919: 14.01 upload_919: 0.00 survey_919: 0.00 variations_919: 0.00 
+iteration 922 long_922: File absent upload_922: File absent survey_922: File absent variations_922: File absent 
+iteration 923 long_923: 1.19 upload_923: 1.57 survey_923: 4.53 variations_923: 5.82 
+iteration 929 long_929: File absent upload_929: File absent survey_929: File absent variations_929: File absent 
+iteration 938 long_938: 8.77 upload_938: 1.90 survey_938: 0.00 variations_938: 0.00 
+iteration 939 long_939: File absent upload_939: File absent survey_939: File absent variations_939: File absent 
+iteration 940 long_940: 14.01 upload_940: 0.00 survey_940: 0.00 variations_940: 0.00 
+iteration 941 long_941: 1.19 upload_941: 1.57 survey_941: 4.53 variations_941: 5.82 
+iteration 944 long_944: 1.19 upload_944: 1.57 survey_944: 4.53 variations_944: 5.82 
+iteration 946 long_946: 12.40 upload_946: 2.39 survey_946: 5.72 variations_946: 3.71 
+iteration 949 long_949: 1.19 upload_949: 1.57 survey_949: 4.53 variations_949: 5.82 
+iteration 950 long_950: 12.22 upload_950: 0.00 survey_950: 0.11 variations_950: 0.11 
+iteration 952 long_952: File absent upload_952: File absent survey_952: File absent variations_952: File absent 
+iteration 955 long_955: File absent upload_955: File absent survey_955: File absent variations_955: File absent 
+iteration 956 long_956: 0.00 upload_956: File absent survey_956: File absent variations_956: File absent 
+iteration 959 long_959: 1.19 upload_959: 1.57 survey_959: 4.53 variations_959: 5.82 
+iteration 961 long_961: 1.19 upload_961: 1.57 survey_961: 4.53 variations_961: 5.82 
+iteration 962 long_962: 9.45 upload_962: 1.13 survey_962: 6.07 variations_962: 6.81 
+iteration 966 long_966: File absent upload_966: File absent survey_966: File absent variations_966: File absent 
+iteration 967 long_967: File absent upload_967: File absent survey_967: File absent variations_967: File absent 
+iteration 968 long_968: 12.40 upload_968: 2.39 survey_968: 5.72 variations_968: 3.71 
+iteration 972 long_972: File absent upload_972: File absent survey_972: File absent variations_972: File absent 
+iteration 974 long_974: 8.44 upload_974: 1.13 survey_974: 4.38 variations_974: 6.27 
+iteration 977 long_977: 9.45 upload_977: 1.13 survey_977: 6.07 variations_977: 6.81 
+iteration 980 long_980: File absent upload_980: File absent survey_980: File absent variations_980: File absent 
+iteration 981 long_981: 0.00 upload_981: 0.18 survey_981: 0.00 variations_981: 0.00 
+iteration 982 long_982: 12.80 upload_982: 2.39 survey_982: 5.63 variations_982: 3.76 
+iteration 984 long_984: 1.19 upload_984: 1.57 survey_984: 4.53 variations_984: 5.82 
+iteration 987 long_987: File absent upload_987: File absent survey_987: File absent variations_987: File absent 
+iteration 988 long_988: 1.19 upload_988: 1.57 survey_988: 4.53 variations_988: 5.82 
+iteration 997 long_997: 1.19 upload_997: 1.57 survey_997: 4.53 variations_997: 5.82 
+iteration 999 long_999: File absent upload_999: File absent survey_999: File absent variations_999: File absent 
