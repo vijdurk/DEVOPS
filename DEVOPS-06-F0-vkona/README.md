@@ -119,7 +119,7 @@ This feature was implemented in both the pipeline jobs .Details of which are exp
 - This linting process finds out multiple static issues in code such as unnecessary escape characters,unused variables,undefined modules and so on.
 - This gives in detail the line number and column number in the code
 - This step has been included as a job 'calculate-StaticCodeAnalysis' in the pipeline job.<br>
- [Static Analysis report for Calculator](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Static_code_analysis_Calculator_Using_ESLINT.txt)
+ [Static Analysis report for Calculator](https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Static_code_analysis_Calculator_Using_ESLINT.txt)
 
 #### Healthchecks - PYLINT PACKAGE FOR STATIC CODE ANALYSIS
 
@@ -129,7 +129,7 @@ This feature was implemented in both the pipeline jobs .Details of which are exp
 - This identifies multiple issues such as missing docstrings,unused variables,Over use of Looping  if statements and unreacahable code.
 - This also suggests the repeated lines that can be modularised for reuse.
 - This feature added in the helps the coder to check on these issues and improve the quality of the project.<br>
-[Static Analysis report for Healthchecks](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Static_code_analysis_HealthChecks_Using_Pylint.txt)
+[Static Analysis report for Healthchecks](https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Static_code_analysis_HealthChecks_Using_Pylint.txt)
 <details>
 <summary>pylintrc</summary>
 
@@ -749,68 +749,68 @@ overgeneral-exceptions=BaseException,
 ##### Pipeline init
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/init_f0_1.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/init_f0_1.png">
 </p>
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/init_f0.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/init_f0.png">
 </p>
 
 ##### Calculator deployment on BLUE
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Calculator_Blue_server.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Calculator_Blue_server.png">
 </p>
 
 ##### Calculator deployment on GREEN
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Calculator_Green_server.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Calculator_Green_server.png">
 </p>
 
 ##### Calculator TESTING 
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Testing_Calculator1.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Testing_Calculator1.png">
 </p>
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Testing_Calculator2.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Testing_Calculator2.png">
 </p>
 
 ##### Calculator STATIC CODE ANALYSIS 
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Static_Code_analysis_output.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Static_Code_analysis_output.png">
 </p>
 
 ##### BLUE GREEN STRATEGY
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Blue_green_strategy.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Blue_green_strategy.png">
 </p>
 
 ##### HEALTHCHECKS Deployment on BLUE
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Healthchecks_blue_server.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Healthchecks_blue_server.png">
 </p>
 
 ##### HEALTHCHECKS Deployment on GREEN
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Healthchecks_green_server.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Healthchecks_green_server.png">
 </p>
 
 ##### HEALTHCHECKS TESTING
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/HealthChecks_testing.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/HealthChecks_testing.png">
 </p>
 
 ##### HEALTHCHECKS STATIC CODE ANALYSIS
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/F0-vkona/Images/Static_code_analysis_Healthchecks_output.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/blob/main/DEVOPS-06-F0-vkona/Images/Static_code_analysis_Healthchecks_output.png">
 </p>
 
 # Milestone 3 (Pipeline > Deployment)
