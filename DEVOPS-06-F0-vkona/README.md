@@ -943,44 +943,44 @@ Set your digitalocean token on local system as below:
 
 ##### Pipeline init
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Windows_M2_init.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Windows_M2_init.png">
 </p>
 
 #### iTrust Job 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/ItrustM2.PNG">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/ItrustM2.PNG">
 </p>
 
 
 ##### Mutation coverage job
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Windows_M2_mutation-coverage-build.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Windows_M2_mutation-coverage-build.png">
 </p>
 
 #### iTrust Deploy Job
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/M3deploy.PNG">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/M3deploy.PNG">
 </p>
 
 ##### iTrust Deployment on Blue
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Blue.jpeg">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Blue.jpeg">
 </p>
 
 #### iTrust Deployment on Green 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Green.jpeg">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Green.jpeg">
 </p>
 
 #### iTrust Deployment on Proxy: 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/proxy.jpeg">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/proxy.jpeg">
 </p>
 
 ### Project Board:
 
 <p align = "center">
-<img width=1200" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/1M3_ProjectBoard.PNG">
+<img width=1200" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/1M3_ProjectBoard.PNG">
 </p>
 
 [View Project Board](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/projects/3)
@@ -988,7 +988,7 @@ Set your digitalocean token on local system as below:
 ### Issue Board:
 
 <p align = "center">
-<img width="1000" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/2M3_issues.PNG">
+<img width="1000" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/2M3_issues.PNG">
 </p>
 
 [View Issue Board](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/issues)
@@ -1124,40 +1124,40 @@ Trigger a build job, running steps outlined by build.yml, wait for output, and p
 #### Linux System:
 ##### Pipeline init
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Linux_M2_init.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Linux_M2_init.png">
 </p>
 
 ##### iTrust Job
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Linux_M2_itrust-build.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Linux_M2_itrust-build.png">
 </p>
 
 ##### Mutation coverage job
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Linux_M2_mutation-coverage.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Linux_M2_mutation-coverage.png">
 </p>
 
 #### Windows System:
 ##### Pipeline init
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Windows_M2_init.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Windows_M2_init.png">
 </p>
 
 #### iTrust Job 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/ItrustM2.PNG">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/ItrustM2.PNG">
 </p>
 
 
 ##### Mutation coverage job
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Windows_M2_mutation-coverage-build.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Windows_M2_mutation-coverage-build.png">
 </p>
 
 ### Project Board:
 
 <p align = "center">
-<img width=1200" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Project-board-M2.PNG">
+<img width=1200" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Project-board-M2.PNG">
 </p>
 
 [View Project Board](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/projects/2)
@@ -1165,7 +1165,7 @@ Trigger a build job, running steps outlined by build.yml, wait for output, and p
 ### Issue Board:
 
 <p align = "center">
-<img width="1000" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Issue-board-M2.PNG">
+<img width="1000" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Issue-board-M2.PNG">
 </p>
 
 [View Issue Board](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/issues)
@@ -1275,27 +1275,27 @@ Trigger a build job, running steps outlined by build.yml, wait for output, and p
 
 #### Windows System:
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/2M1.PNG">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/2M1.PNG">
 </p>
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/1M1.PNG">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/1M1.PNG">
 </p>
 
 #### Linux System:
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/linux_init_result.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/linux_init_result.png">
 </p>
 
 <p align = "center">
-<img width="900" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/linux_build_successful.png">
+<img width="900" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/linux_build_successful.png">
 </p>
 
 ### Project Board:
 
 <p align = "center">
-<img width=1200" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Project-board-M1.PNG">
+<img width=1200" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Project-board-M1.PNG">
 </p>
 
 [View Project Board](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/projects/1)
@@ -1303,7 +1303,7 @@ Trigger a build job, running steps outlined by build.yml, wait for output, and p
 ### Issue Board:
 
 <p align = "center">
-<img width="1000" alt="image" src="https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/Images/Issue-board-M1.PNG">
+<img width="1000" alt="image" src="https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/Images/Issue-board-M1.PNG">
 </p>
 
 [View Issue Board](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/issues)
@@ -1312,4 +1312,4 @@ Trigger a build job, running steps outlined by build.yml, wait for output, and p
 [View Screencast](https://youtu.be/jHuGoz0y0QM)
 
 ### Checkpoint Report for Milestone 1:
-[View CHECKPOINT-M1 Report](https://github.ncsu.edu/CSC-DevOps-S22/DEVOPS-06/blob/main/CHECKPOINT-M1.md)
+[View CHECKPOINT-M1 Report](https://github.com/vijdurk/DEVOPS/tree/main/DEVOPS-06-F0-vkona/CHECKPOINT-M1.md)
